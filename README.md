@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 Hi, I am Yetmgeta Ewunetu.  A fullstack web, mobile apps and AI agents developer and a curiosity driven person always open to learn and explore new knowledge and skills. <br>I am interested in modern designs, clean architectures, AI agents and RAG systems.
 
 
@@ -25,3 +25,4 @@ Hi, I am Yetmgeta Ewunetu.  A fullstack web, mobile apps and AI agents developer
 [![](https://komarev.com/ghpvc/?username=yetmgetaewunetu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/yetmgeta-ewunetu/)
